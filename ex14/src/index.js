@@ -9,7 +9,7 @@ for (var i = 0; i <= 8; i += 2) {
    if (i === 8) {
     evenNumbers += i; 
    } else {
-    evenNumbers += i + ",";
+    evenNumbers += i + "," + " ";
 }
 }
 return evenNumbers;
@@ -24,7 +24,7 @@ for (var i = 8; i >= 0; i -= 2) {
     if (i === 0) {
     evenInverseNumbers += i; 
     } else {
-    evenInverseNumbers += i + ",";
+    evenInverseNumbers += i + "," + " ";
 }
 }
 return evenInverseNumbers; 
