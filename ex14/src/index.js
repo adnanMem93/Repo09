@@ -31,7 +31,8 @@ return evenInverseNumbers;
 }
 
 console.log(myForLoop1()); 
-console.log(myForLoop2());  
+console.log(myForLoop2()); 
+ 
 // Only change code above this line
 
 module.exports = {
