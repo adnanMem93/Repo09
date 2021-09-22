@@ -4,6 +4,8 @@ function myTrueBoolean() {
     return true;
 };
 
+myTrueBoolean();
+
 console.log(myTrueBoolean());
 
 // Only change code above this line

@@ -16,6 +16,8 @@ i--;
 return fiveNumbers;
 }
 
+inverseWhile();
+
 // Only change code above this line
 
 console.log(inverseWhile());

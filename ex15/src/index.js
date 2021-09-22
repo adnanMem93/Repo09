@@ -20,6 +20,8 @@ i++;
 return myNumbers;
 }
 
+myDoWhile();
+
 console.log(myDoWhile());
 
 // Only change code above this line

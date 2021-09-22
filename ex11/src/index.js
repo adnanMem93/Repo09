@@ -25,6 +25,12 @@ break;
 return animals;
 }
 
+switchCase("a");
+switchCase("b");
+switchCase("c");
+switchCase("d");
+switchCase(4);
+
 console.log(switchCase("a")); // Change this line
 console.log(switchCase("b")); // Change this line
 console.log(switchCase("c")); // Change this line

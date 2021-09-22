@@ -30,6 +30,9 @@ for (var i = 8; i >= 0; i -= 2) {
 return evenInverseNumbers; 
 }
 
+myForLoop1();
+myForLoop2();
+
 console.log(myForLoop1()); 
 console.log(myForLoop2()); 
  

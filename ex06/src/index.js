@@ -20,6 +20,11 @@ function comparisonToEqual(a) {
 
 }
 
+comparisonToEqual(0);
+comparisonToEqual(5);
+comparisonToEqual(17);
+comparisonToEqual(21);
+
 console.log(comparisonToEqual(0));
 console.log(comparisonToEqual(5));
 console.log(comparisonToEqual(17));
